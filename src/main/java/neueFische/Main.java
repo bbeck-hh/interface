@@ -1,11 +1,8 @@
 package neueFische;
 
-import javax.print.attribute.standard.Media;
-import javax.swing.text.View;
-
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hallo Welt");
+        System.out.println("Hallo Welt. Lass uns starten");
 
         VideoPlayer video = new VideoPlayer();
 
